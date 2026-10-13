@@ -1,0 +1,74 @@
+[
+  {
+    "id": 1,
+    "name": "top_left",
+    "file": "leaf_1_top_left.png",
+    "pivot": [
+      540.0,
+      195.0
+    ]
+  },
+  {
+    "id": 2,
+    "name": "top_right",
+    "file": "leaf_2_top_right.png",
+    "pivot": [
+      612.0,
+      195.0
+    ]
+  },
+  {
+    "id": 3,
+    "name": "mid_left",
+    "file": "leaf_3_mid_left.png",
+    "pivot": [
+      495.0,
+      305.0
+    ]
+  },
+  {
+    "id": 4,
+    "name": "mid_right",
+    "file": "leaf_4_mid_right.png",
+    "pivot": [
+      655.0,
+      300.0
+    ]
+  },
+  {
+    "id": 5,
+    "name": "low_left",
+    "file": "leaf_5_low_left.png",
+    "pivot": [
+      490.0,
+      415.0
+    ]
+  },
+  {
+    "id": 6,
+    "name": "low_right",
+    "file": "leaf_6_low_right.png",
+    "pivot": [
+      650.0,
+      400.0
+    ]
+  },
+  {
+    "id": 7,
+    "name": "bottom_left",
+    "file": "leaf_7_bottom_left.png",
+    "pivot": [
+      490.0,
+      525.0
+    ]
+  },
+  {
+    "id": 8,
+    "name": "bottom_right",
+    "file": "leaf_8_bottom_right.png",
+    "pivot": [
+      650.0,
+      510.0
+    ]
+  }
+]
